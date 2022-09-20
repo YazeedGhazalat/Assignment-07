@@ -9,7 +9,8 @@ class myTextFeeldWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("welcome here "),
+        centerTitle: true,
+        title: Text("Search Page"),
         backgroundColor: Colors.indigo,
       ),
       body: Center(
