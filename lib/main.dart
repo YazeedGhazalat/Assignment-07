@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:myapp/screens/Screen.dart';
+import 'package:myapp/screens/SearchScreen.dart';
 
 void main() {
   runApp(MaterialApp(debugShowCheckedModeBanner: false, home: MyApp()));
